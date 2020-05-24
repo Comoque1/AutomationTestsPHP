@@ -1,0 +1,8 @@
+tests\acceptance\SigninCest.php:signInInvalidUsername
+tests\acceptance\SigninCest.php:signInInvalidPassword
+tests\acceptance\SigninCest.php:signInSuccessfully
+tests\acceptance\SigninCest.php:linkRegisterNow
+tests\acceptance\SigninCest.php:linkResetPassword
+tests\acceptance\SigninCest.php:linkNoMobileApp
+tests\acceptance\SigninCest.php:mobileAppLoginCodeExpiresAndReniewCode
+tests\acceptance\SigninCest.php:mobileAppLoginHaventReceivedCode
