@@ -20,13 +20,11 @@ In order the tests to work successfully, the following parameters must be provid
              url: '[YOUR APPLICATION URL]' #the base url of the application under test
              
 
-#### File: SigninCest.php
+#### File: config.php
 
     <?php
-    class SigninCest
-    {
-        private $pass = '[YOUR PASSWORD]'; // the password of the user
-        private $user = '[YOUR USERNAME]'; // the username
+        const password = '[YOUR PASSWORD]'; // the password of the user
+        const username = '[YOUR USERNAME]'; // the username
     ?>
 
 
