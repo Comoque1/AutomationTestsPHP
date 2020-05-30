@@ -8,7 +8,7 @@ Automated acceptance tests with Codeception
 - Latest version of **Chrome (Version 83)** browser is required
 
 ## Commands to run Codeception tests
-This command will run all acceptance tests: **./vendor/bin/codecept run acceptance SigninCest.php**
+This command will run all available acceptance tests: **./vendor/bin/codecept run acceptance**
 
 ## NOTE
 In order the tests to work successfully, the following parameters must be provided:
